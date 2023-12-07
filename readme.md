@@ -1,4 +1,4 @@
-#CONTACTS CLI APP
+# CONTACTS CLI APP
 
 This is CLI app to store your contacts. Therefore, you need to write commands directly in the terminal.
 A shortcut method has been so tgat you can enter a short command:
@@ -55,4 +55,4 @@ Example:
 
 ![alt Examle get](https://github.com/AndriiBilyiV/goit-node-hw-01/blob/main/images-for-description/image04.JPG?raw=true)
 
-##Hope, you enjoy!
+## Hope, you enjoy!
