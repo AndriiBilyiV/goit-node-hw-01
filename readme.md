@@ -10,4 +10,4 @@ $ node index -a list
 
 Example:
 
-![alt Examle list](https://www.edu.goit.global/_next/image?url=https%3A%2F%2Fs3.eu-north-1.amazonaws.com%2Flms.goit.files%2F0618d8e0-2652-3e30-ae44-fd6ff17d55a1.png&w=1920&q=75?raw=true)
+![alt Examle list](https://github.com/AndriiBilyiV/goit-node-hw-01/blob/main/images-for-description/image01.JPG?raw=true)
